@@ -1,0 +1,4645 @@
+{
+    "locations": [
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Parasina Palya",
+            "latitude": 12.8,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.8,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Malle Nalsandra",
+            "latitude": 12.8,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Koppa Gate",
+            "latitude": 12.8,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Nanjapura",
+            "latitude": 12.8,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bommasandra Industrial Area",
+            "latitude": 12.8,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "RK Township",
+            "latitude": 12.8,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.8,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Terracon Doctors Enclave",
+            "latitude": 12.8,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Guddahatti",
+            "latitude": 12.8,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "KHB 3rd Phase",
+            "latitude": 12.8,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Jigala",
+            "latitude": 12.8,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bidaraguppe",
+            "latitude": 12.8,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chinnakurchi",
+            "latitude": 12.818018,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bilwaradahalli",
+            "latitude": 12.818018,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gollahalli",
+            "latitude": 12.818018,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vabasandra",
+            "latitude": 12.818018,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bommasandra Industrial Area",
+            "latitude": 12.818018,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bommasandra Industrial Area",
+            "latitude": 12.818018,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bommasandra Industrial Area",
+            "latitude": 12.818018,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.818018,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ali Bommasandra",
+            "latitude": 12.818018,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Muthanallur Amanikere",
+            "latitude": 12.818018,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "BEML Cooperative Society Layout",
+            "latitude": 12.818018,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "BEML Cooperative Society Layout",
+            "latitude": 12.818018,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kumbalgodu State Forest",
+            "latitude": 12.836036,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vasanthanahalli",
+            "latitude": 12.836036,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.836036,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bettadasanapura",
+            "latitude": 12.836036,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Indra Nagar",
+            "latitude": 12.836036,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Veer Sandra",
+            "latitude": 12.836036,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Shree Ananth Nagar Layout",
+            "latitude": 12.836036,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Singena Agrahara",
+            "latitude": 12.836036,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Muthanallur",
+            "latitude": 12.836036,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gopasandra",
+            "latitude": 12.836036,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kotiganahalli, Karnataka 562125, India",
+            "latitude": 12.836036,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Billapura",
+            "latitude": 12.836036,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kumbalgodu State Forest",
+            "latitude": 12.854054,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.854054,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.854054,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gudimavu",
+            "latitude": 12.854054,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kamiahnapalya",
+            "latitude": 12.854054,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Siddanapalya",
+            "latitude": 12.854054,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rachanamadu",
+            "latitude": 12.854054,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.854054,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.854054,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Anjanapura 9th Block",
+            "latitude": 12.854054,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "South Avenue",
+            "latitude": 12.854054,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Eagle Ridge",
+            "latitude": 12.854054,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Mylasandra",
+            "latitude": 12.854054,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vittasandra",
+            "latitude": 12.854054,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Konappana Agrahara",
+            "latitude": 12.854054,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Phase II",
+            "latitude": 12.854054,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gulimangala",
+            "latitude": 12.854054,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Harohalli",
+            "latitude": 12.854054,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.854054,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kada Agrahara",
+            "latitude": 12.854054,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sree Narayana Nagar",
+            "latitude": 12.854054,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Infosys Head Quater",
+            "latitude": 12.854054,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kumbalgodu State Forest",
+            "latitude": 12.872072,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kumbalgodu State Forest",
+            "latitude": 12.872072,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.872072,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kengeri",
+            "latitude": 12.872072,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Venkatapura",
+            "latitude": 12.872072,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.872072,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Banashankari Stage 6",
+            "latitude": 12.872072,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.872072,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vajarahalli Village",
+            "latitude": 12.872072,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.872072,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Classic Orchards Layout",
+            "latitude": 12.872072,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hulimavu",
+            "latitude": 12.872072,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Akshaya Residency",
+            "latitude": 12.872072,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "MM Layout",
+            "latitude": 12.872072,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Naganathapura",
+            "latitude": 12.872072,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rayasandra",
+            "latitude": 12.872072,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gattahalli",
+            "latitude": 12.872072,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chokkasandra",
+            "latitude": 12.872072,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chokkasandra",
+            "latitude": 12.872072,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Dommasandra",
+            "latitude": 12.872072,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.872072,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ittangur",
+            "latitude": 12.872072,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rampura, Karnataka 562130, India",
+            "latitude": 12.89009,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chikkellur",
+            "latitude": 12.89009,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.89009,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kengeri",
+            "latitude": 12.89009,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Doddabele colony",
+            "latitude": 12.89009,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Jettigana Halli",
+            "latitude": 12.89009,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ganakal Village",
+            "latitude": 12.89009,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.89009,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vasanthapura",
+            "latitude": 12.89009,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ganapathipura",
+            "latitude": 12.89009,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Wilson Garden Society",
+            "latitude": 12.89009,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sarvabhoumanagar",
+            "latitude": 12.89009,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Maruthi Layout",
+            "latitude": 12.89009,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Krishna Reddy Industrial Area",
+            "latitude": 12.89009,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Haralur",
+            "latitude": 12.89009,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Choodasandra",
+            "latitude": 12.89009,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chikkakannalli",
+            "latitude": 12.89009,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.89009,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sulikunte",
+            "latitude": 12.89009,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hegondanahalli",
+            "latitude": 12.89009,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.89009,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.89009,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Baby Farms",
+            "latitude": 12.908108,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.908108,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.908108,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.908108,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "BSM Extension",
+            "latitude": 12.908108,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.908108,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hemmigepura Ward 198",
+            "latitude": 12.908108,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vaddara Palya",
+            "latitude": 12.908108,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vajpayee Nagar",
+            "latitude": 12.908108,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.908108,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "1st Phase",
+            "latitude": 12.908108,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Dollar Layout",
+            "latitude": 12.908108,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Roopena Agrahara",
+            "latitude": 12.908108,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.908108,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.908108,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kasavanahalli",
+            "latitude": 12.908108,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Janatha Colony",
+            "latitude": 12.908108,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chikkabellandur",
+            "latitude": 12.908108,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kachamaranahalli",
+            "latitude": 12.908108,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hegondanahalli",
+            "latitude": 12.908108,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.908108,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.908108,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "SMV Layout",
+            "latitude": 12.926126,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gnanabharathi",
+            "latitude": 12.926126,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kenchenhalli",
+            "latitude": 12.926126,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bangarappanagar",
+            "latitude": 12.926126,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ittamadu",
+            "latitude": 12.926126,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Siddanna Layout",
+            "latitude": 12.926126,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "4th Block",
+            "latitude": 12.926126,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bismillahnagar",
+            "latitude": 12.926126,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "S.T. Bed",
+            "latitude": 12.926126,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Block 1",
+            "latitude": 12.926126,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bellandur",
+            "latitude": 12.926126,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bhoganhalli",
+            "latitude": 12.926126,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bhoganhalli",
+            "latitude": 12.926126,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gunjur Village",
+            "latitude": 12.926126,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.926126,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Janthagondahalli",
+            "latitude": 12.926126,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Block 4",
+            "latitude": 12.944144,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Jnanabharathi BDA Layout",
+            "latitude": 12.944144,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gnana Bharathi",
+            "latitude": 12.944144,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Pantarapalya",
+            "latitude": 12.944144,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Muneshwara Block",
+            "latitude": 12.944144,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gavipuram Extn",
+            "latitude": 12.944144,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Mavalli",
+            "latitude": 12.944144,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Pukhraj Layout",
+            "latitude": 12.944144,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "KHB Games Village",
+            "latitude": 12.944144,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ambedkar Nagar",
+            "latitude": 12.944144,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Belur Nagasandra",
+            "latitude": 12.944144,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kadubeesanahalli",
+            "latitude": 12.944144,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Thubarahalli",
+            "latitude": 12.944144,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Varthur",
+            "latitude": 12.944144,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.944144,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kotur",
+            "latitude": 12.944144,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.962162,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.962162,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.962162,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kannahalli",
+            "latitude": 12.962162,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "sonnenna halli",
+            "latitude": 12.962162,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Muneeshwara Block",
+            "latitude": 12.962162,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "2nd Stage",
+            "latitude": 12.962162,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "CHBS",
+            "latitude": 12.962162,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Padarayana Pura",
+            "latitude": 12.962162,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Anandapuram",
+            "latitude": 12.962162,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sudhama Nagar",
+            "latitude": 12.962162,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Richmond Town",
+            "latitude": 12.962162,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Nagashettyhalli",
+            "latitude": 12.962162,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Domlur I Stage",
+            "latitude": 12.962162,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Nanja Reddy Colony",
+            "latitude": 12.962162,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vimanapura",
+            "latitude": 12.962162,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sanjay Nagar",
+            "latitude": 12.962162,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "E Block",
+            "latitude": 12.962162,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Phase 1",
+            "latitude": 12.962162,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Prestige Ozone",
+            "latitude": 12.962162,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.962162,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.962162,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.98018,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Honniganahatti",
+            "latitude": 12.98018,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.98018,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.98018,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "IInd Phase",
+            "latitude": 12.98018,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Anjana Nagar",
+            "latitude": 12.98018,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "BDA Layout",
+            "latitude": 12.98018,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ranganathapura",
+            "latitude": 12.98018,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rajaji Nagar Industrial Town",
+            "latitude": 12.98018,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "M.G. Railway Colony",
+            "latitude": 12.98018,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Racecourse",
+            "latitude": 12.98018,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Tasker Town",
+            "latitude": 12.98018,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "MV Garden",
+            "latitude": 12.98018,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Binnamangala",
+            "latitude": 12.98018,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Viswa Vihar",
+            "latitude": 12.98018,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Balaji Layout",
+            "latitude": 12.98018,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ferns City",
+            "latitude": 12.98018,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "KIADB Export Promotion Industrial Area",
+            "latitude": 12.98018,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "KIADB Export Promotion Industrial Area",
+            "latitude": 12.98018,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Whitefield",
+            "latitude": 12.98018,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Channasandra",
+            "latitude": 12.98018,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Thirumalashettyhally",
+            "latitude": 12.98018,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.998198,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 12.998198,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 12.998198,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bapagrama",
+            "latitude": 12.998198,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Yeswanthpur",
+            "latitude": 12.998198,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Venkateshwara Layout",
+            "latitude": 12.998198,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kareemsab Nagar",
+            "latitude": 12.998198,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kirloskar Colony",
+            "latitude": 12.998198,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "West of Chord Road",
+            "latitude": 12.998198,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Malleshwaram",
+            "latitude": 12.998198,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Jayamahal",
+            "latitude": 12.998198,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Byadarahalli",
+            "latitude": 12.998198,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Cox Town",
+            "latitude": 12.998198,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Block 1",
+            "latitude": 12.998198,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "NGEF Layout",
+            "latitude": 12.998198,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "ITI Employess Housing Colony",
+            "latitude": 12.998198,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Devasandra Industrial Estate",
+            "latitude": 12.998198,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ayyappa Nagar",
+            "latitude": 12.998198,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kodigehalli",
+            "latitude": 12.998198,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kumbena Agrahara",
+            "latitude": 12.998198,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kadugodi",
+            "latitude": 12.998198,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Appajipura",
+            "latitude": 12.998198,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Gollarapalya",
+            "latitude": 13.016216,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.016216,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kadabagere",
+            "latitude": 13.016216,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "K.G. Lakkenahalli",
+            "latitude": 13.016216,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.016216,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 13.016216,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rajagopala Nagar",
+            "latitude": 13.016216,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Jenakal Siddeswara Nagar",
+            "latitude": 13.016216,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Yeshwanthpur Industrial Suburb",
+            "latitude": 13.016216,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Mathikere",
+            "latitude": 13.016216,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Armane Nagar",
+            "latitude": 13.016216,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Modi Garden",
+            "latitude": 13.016216,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Vinobha Nagar",
+            "latitude": 13.016216,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Subbayianiah Palyam",
+            "latitude": 13.016216,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Annaiah Reddy Layout",
+            "latitude": 13.016216,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Eeriahana Palya",
+            "latitude": 13.016216,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Krishnarajapuram",
+            "latitude": 13.016216,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hosabasavanapura",
+            "latitude": 13.016216,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Virgonagar Industrial Estate",
+            "latitude": 13.016216,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.016216,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Krishnarajapuram",
+            "latitude": 13.016216,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Appajipura",
+            "latitude": 13.016216,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.034234,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.034234,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.034234,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.034234,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.034234,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Doddabidarakallu",
+            "latitude": 13.034234,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Nalagadderanahalli",
+            "latitude": 13.034234,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Yesvanpur Surburb",
+            "latitude": 13.034234,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Muthyala Nagar",
+            "latitude": 13.034234,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "AG's Layout",
+            "latitude": 13.034234,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sanjayanagara",
+            "latitude": 13.034234,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Seethappa Layout",
+            "latitude": 13.034234,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Govindapura",
+            "latitude": 13.034234,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hennur Bande",
+            "latitude": 13.034234,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Horamavu Agara",
+            "latitude": 13.034234,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Pooja Layout",
+            "latitude": 13.034234,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Doddamuniswamy Reddy Layout",
+            "latitude": 13.034234,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Padmeshwari Nagar",
+            "latitude": 13.034234,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Muneshwara Layout",
+            "latitude": 13.034234,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bidare Agraha",
+            "latitude": 13.034234,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Khajisonnanahalli",
+            "latitude": 13.034234,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Poojena Agrahara",
+            "latitude": 13.034234,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Madavara",
+            "latitude": 13.052252,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Manjunatha Nagar",
+            "latitude": 13.052252,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bhuvaneshwari Nagar",
+            "latitude": 13.052252,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Siddhartha Nagar",
+            "latitude": 13.052252,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Stage 2",
+            "latitude": 13.052252,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Devinagar",
+            "latitude": 13.052252,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Coffee Board Layout",
+            "latitude": 13.052252,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Manyata Residency",
+            "latitude": 13.052252,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hiremath Layout",
+            "latitude": 13.052252,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Unknown",
+            "latitude": 13.052252,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rampura",
+            "latitude": 13.052252,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.052252,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Cheemasandra",
+            "latitude": 13.052252,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Nimbekaipura",
+            "latitude": 13.052252,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Huskur Kodi",
+            "latitude": 13.052252,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Petanahalli",
+            "latitude": 13.052252,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Arasinakunte",
+            "latitude": 13.07027,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kuduregere Colony",
+            "latitude": 13.07027,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "TG Halli",
+            "latitude": 13.07027,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Medaralli",
+            "latitude": 13.07027,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "devegowda enclave",
+            "latitude": 13.07027,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Govindayyanapalya",
+            "latitude": 13.07027,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Lakeshore Garden",
+            "latitude": 13.07027,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Rajiv Gandhi Nagar",
+            "latitude": 13.07027,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Jakkuru Layout",
+            "latitude": 13.07027,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "MCECHS Layout",
+            "latitude": 13.07027,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "RK Hegde Nagar",
+            "latitude": 13.07027,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sonam Layout",
+            "latitude": 13.07027,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Anagalapura",
+            "latitude": 13.07027,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Bommenahalli",
+            "latitude": 13.07027,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.07027,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "M V Extenstion",
+            "latitude": 13.07027,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.4,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Keerthi layout",
+            "latitude": 13.088288,
+            "longitude": 77.41849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Nagarur colony",
+            "latitude": 13.088288,
+            "longitude": 77.436979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.455469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.473959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.492449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Ganigarahalli",
+            "latitude": 13.088288,
+            "longitude": 77.510938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Lakshmipura",
+            "latitude": 13.088288,
+            "longitude": 77.529428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Adityanagar",
+            "latitude": 13.088288,
+            "longitude": 77.547918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.566408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Janatha Colony",
+            "latitude": 13.088288,
+            "longitude": 77.584897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UAS Layout",
+            "latitude": 13.088288,
+            "longitude": 77.603387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Sampigehalli",
+            "latitude": 13.088288,
+            "longitude": 77.621877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Kannuru",
+            "latitude": 13.088288,
+            "longitude": 77.640367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Chikkagubbi Village",
+            "latitude": 13.088288,
+            "longitude": 77.658856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.677346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.695836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.714325,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.732815,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "UNKNOWN",
+            "latitude": 13.088288,
+            "longitude": 77.751305,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Upparahalli",
+            "latitude": 13.088288,
+            "longitude": 77.769795,
+            "pincode": "NA"
+        },
+        {
+            "city": "Bengaluru",
+            "area": "Hoskote",
+            "latitude": 13.088288,
+            "longitude": 77.788284,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "67XX+RP9, Nagarguda - Shamshabad Rd, Telangana 501218, India",
+            "latitude": 17.25,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sultanpalle",
+            "latitude": 17.25,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Chowdariguda",
+            "latitude": 17.25,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.25,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Thondapalli",
+            "latitude": 17.25,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.25,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.25,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.25,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.25,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.25,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kurmalguda",
+            "latitude": 17.25,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kurmalguda",
+            "latitude": 17.25,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kurmalguda",
+            "latitude": 17.25,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "7G2R+447, Telangana 501510, India",
+            "latitude": 17.25,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bongloor",
+            "latitude": 17.25,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Manneguda",
+            "latitude": 17.25,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Manneguda",
+            "latitude": 17.25,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sultanpalle",
+            "latitude": 17.268018,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sultanpalle",
+            "latitude": 17.268018,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ammapalle",
+            "latitude": 17.268018,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.268018,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.268018,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ranga Reddy Nagar",
+            "latitude": 17.268018,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.268018,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.268018,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.268018,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Omer Colony",
+            "latitude": 17.268018,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kurmalguda",
+            "latitude": 17.268018,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kurmalguda",
+            "latitude": 17.268018,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.268018,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nadargul",
+            "latitude": 17.268018,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "7H95+6G AV Nagar, Telangana, India",
+            "latitude": 17.268018,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Turkayamjal",
+            "latitude": 17.268018,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hayathnagar",
+            "latitude": 17.268018,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bakaram Jagir",
+            "latitude": 17.286036,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bakaram",
+            "latitude": 17.286036,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kavaguda",
+            "latitude": 17.286036,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hayat Nagar",
+            "latitude": 17.286036,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Wadi-E-Hadees",
+            "latitude": 17.286036,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Balapur",
+            "latitude": 17.286036,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.286036,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Dawoodkhanguda",
+            "latitude": 17.286036,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Jai Suryapatnam",
+            "latitude": 17.286036,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nadargul",
+            "latitude": 17.286036,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Tarur",
+            "latitude": 17.286036,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bakaram Jagir",
+            "latitude": 17.304054,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bangaliguda",
+            "latitude": 17.304054,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nagireddiguda",
+            "latitude": 17.304054,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kismatpur",
+            "latitude": 17.304054,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kismatpur",
+            "latitude": 17.304054,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hayat Nagar",
+            "latitude": 17.304054,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.304054,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Telangana NGOS Colony",
+            "latitude": 17.304054,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Laxmiguda Village",
+            "latitude": 17.304054,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ismail Nagar",
+            "latitude": 17.304054,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Iqbal Colony",
+            "latitude": 17.304054,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sri Venkateshwara Colony",
+            "latitude": 17.304054,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Balaji Nagar",
+            "latitude": 17.304054,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.304054,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.304054,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.304054,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.304054,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nazeebnagar",
+            "latitude": 17.322072,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Yenikepally",
+            "latitude": 17.322072,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bangaliguda",
+            "latitude": 17.322072,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.322072,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Manasa Hills",
+            "latitude": 17.322072,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Agricultural Research Institute Quarters",
+            "latitude": 17.322072,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Acharya Ng Ranga Agricultural University",
+            "latitude": 17.322072,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Adarsh Nagar",
+            "latitude": 17.322072,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mughal Colony",
+            "latitude": 17.322072,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hosnabad Colony",
+            "latitude": 17.322072,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Maqbool Nagar",
+            "latitude": 17.322072,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.322072,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Pragathi Colony",
+            "latitude": 17.322072,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Lakshmi Nagar Colony Park",
+            "latitude": 17.322072,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Chaitanya Nagar",
+            "latitude": 17.322072,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.322072,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Gayatri Nagar Colony",
+            "latitude": 17.322072,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Himayatnagar",
+            "latitude": 17.34009,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "v Moinabad (m",
+            "latitude": 17.34009,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Aziznagar",
+            "latitude": 17.34009,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.34009,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Abhyudaya Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Abhyudaya Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.34009,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Suleman Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Basti Nabi Kareem",
+            "latitude": 17.34009,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Char Chaman Colony",
+            "latitude": 17.34009,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Uppuguda",
+            "latitude": 17.34009,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kanchan Bagh",
+            "latitude": 17.34009,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "New Maruthi Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Madhava Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Abhyudaya Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Indira Nagar",
+            "latitude": 17.34009,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Teachers Colony",
+            "latitude": 17.34009,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Chilkoor",
+            "latitude": 17.358108,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Narsingi",
+            "latitude": 17.358108,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.358108,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.358108,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.358108,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.358108,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Golden Heights Colony",
+            "latitude": 17.358108,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sai Hills Colony",
+            "latitude": 17.358108,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mannans Colony",
+            "latitude": 17.358108,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Shah Gunj",
+            "latitude": 17.358108,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Dhobi Ghat",
+            "latitude": 17.358108,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Madannapet Colony",
+            "latitude": 17.358108,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Saraswathi Nagar",
+            "latitude": 17.358108,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kranthi nagar Colony",
+            "latitude": 17.358108,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sai Nagar",
+            "latitude": 17.358108,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.358108,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Auto Nagar",
+            "latitude": 17.358108,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Narsingi",
+            "latitude": 17.376126,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.376126,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Narsingi",
+            "latitude": 17.376126,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Manchirevula",
+            "latitude": 17.376126,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ibrahim Bagh",
+            "latitude": 17.376126,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ramdev Guda",
+            "latitude": 17.376126,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Saleh Nagar",
+            "latitude": 17.376126,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bapu Nagar",
+            "latitude": 17.376126,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Tappachabutra",
+            "latitude": 17.376126,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Gyan Bagh Colony",
+            "latitude": 17.376126,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Imlibun",
+            "latitude": 17.376126,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "MCH Colony",
+            "latitude": 17.376126,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sarita Arcade",
+            "latitude": 17.376126,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Phanigiri Colony",
+            "latitude": 17.376126,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hanuman Gardens",
+            "latitude": 17.376126,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nagole",
+            "latitude": 17.376126,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.376126,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.394144,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kokapet",
+            "latitude": 17.394144,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kokapet",
+            "latitude": 17.394144,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Narsingi",
+            "latitude": 17.394144,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Huda",
+            "latitude": 17.394144,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "G K Enclave",
+            "latitude": 17.394144,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Neeraj Colony",
+            "latitude": 17.394144,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Rethibowli",
+            "latitude": 17.394144,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Venkatadri Colony",
+            "latitude": 17.394144,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Devi Bagh",
+            "latitude": 17.394144,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ramkoti",
+            "latitude": 17.394144,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ratna Nagar",
+            "latitude": 17.394144,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Turab Nagar",
+            "latitude": 17.394144,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Indira Nagar",
+            "latitude": 17.394144,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Survey Colony",
+            "latitude": 17.394144,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Gayatri Nagar",
+            "latitude": 17.394144,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sai Nagar Colony",
+            "latitude": 17.394144,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Vattinagulapally",
+            "latitude": 17.412162,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.412162,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Financial District",
+            "latitude": 17.412162,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Khajaguda",
+            "latitude": 17.412162,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Chitrapuri Colony",
+            "latitude": 17.412162,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Laxman Bagh",
+            "latitude": 17.412162,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Film Nagar",
+            "latitude": 17.412162,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "NBT Nagar",
+            "latitude": 17.412162,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mithila Nagar",
+            "latitude": 17.412162,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Central Secretariat",
+            "latitude": 17.412162,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Lower Tank Bund",
+            "latitude": 17.412162,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Musheerabad",
+            "latitude": 17.412162,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Osmania University",
+            "latitude": 17.412162,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kakateeya Nagar",
+            "latitude": 17.412162,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bank Colony",
+            "latitude": 17.412162,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Shree Venkateshwara Colony",
+            "latitude": 17.412162,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "P&T Colony",
+            "latitude": 17.412162,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Gachibowli",
+            "latitude": 17.43018,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Journalists Colony Phase 3",
+            "latitude": 17.43018,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.43018,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Gueie",
+            "latitude": 17.43018,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Lumbini Avenue",
+            "latitude": 17.43018,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Masthan Nagar",
+            "latitude": 17.43018,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Jubilee Hills",
+            "latitude": 17.43018,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sri Nagar Colony",
+            "latitude": 17.43018,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nagarjuna Nagar colony",
+            "latitude": 17.43018,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.43018,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.43018,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Railway Officer Colony",
+            "latitude": 17.43018,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Lallaguda Railway Colony",
+            "latitude": 17.43018,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sidhartha Nagar",
+            "latitude": 17.43018,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Raghavendra Nagar",
+            "latitude": 17.43018,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ambedkar Nagar",
+            "latitude": 17.43018,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Telephone Colony",
+            "latitude": 17.43018,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Tellapur",
+            "latitude": 17.448198,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.448198,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.448198,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Indira Nagar",
+            "latitude": 17.448198,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Phase 2",
+            "latitude": 17.448198,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mega Hills",
+            "latitude": 17.448198,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Borabanda",
+            "latitude": 17.448198,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "AG Colony",
+            "latitude": 17.448198,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "BK Guda",
+            "latitude": 17.448198,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Begumpet",
+            "latitude": 17.448198,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Balamrai",
+            "latitude": 17.448198,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nehru Nagar Colony",
+            "latitude": 17.448198,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mahendra Hills",
+            "latitude": 17.448198,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Venkateswara Nagar",
+            "latitude": 17.448198,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Aphb Colony",
+            "latitude": 17.448198,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ashok Nagar",
+            "latitude": 17.448198,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mallapur",
+            "latitude": 17.448198,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.466216,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.466216,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "NCB Enclave",
+            "latitude": 17.466216,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Raja Rajeshwara Nagar",
+            "latitude": 17.466216,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "KPHB 5th Phase",
+            "latitude": 17.466216,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "KPHB Phase 15",
+            "latitude": 17.466216,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bhavani Nagar",
+            "latitude": 17.466216,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bharat Nagar",
+            "latitude": 17.466216,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Balanagar",
+            "latitude": 17.466216,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mohammed Nagar",
+            "latitude": 17.466216,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "SAIL Colony",
+            "latitude": 17.466216,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Surya nagar",
+            "latitude": 17.466216,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Secunderabad",
+            "latitude": 17.466216,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Shri Niwas State",
+            "latitude": 17.466216,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mughal Colony",
+            "latitude": 17.466216,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "ECIL",
+            "latitude": 17.466216,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "B N Reddy Nagar",
+            "latitude": 17.466216,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "MIG Phase I",
+            "latitude": 17.484234,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Venkat Reddy Colony",
+            "latitude": 17.484234,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Narne Estates",
+            "latitude": 17.484234,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "APGOs Coop HSG Society",
+            "latitude": 17.484234,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hafeezpet",
+            "latitude": 17.484234,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kukatpally Housing Board Colony",
+            "latitude": 17.484234,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Balaji Nagar",
+            "latitude": 17.484234,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mythri Nagar",
+            "latitude": 17.484234,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Adarsh Nagar",
+            "latitude": 17.484234,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.484234,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Samatha Nagar",
+            "latitude": 17.484234,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Golla Guda",
+            "latitude": 17.484234,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ward No 7 Secunderabad",
+            "latitude": 17.484234,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "A.N Colony",
+            "latitude": 17.484234,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bhaskar Rao Bahar Colony",
+            "latitude": 17.484234,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bharat Nagar Colony",
+            "latitude": 17.484234,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bapuji Nagar",
+            "latitude": 17.484234,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bharat Heavy Electricals Limited",
+            "latitude": 17.502252,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Vidya Nagar Colony",
+            "latitude": 17.502252,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Deepthisri Nagar",
+            "latitude": 17.502252,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Alluri Seetha Ramaraju Nagar",
+            "latitude": 17.502252,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Nadigada Tanda",
+            "latitude": 17.502252,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sreenivasa Nagar",
+            "latitude": 17.502252,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Navodaya Colony",
+            "latitude": 17.502252,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Beerappa Nagar",
+            "latitude": 17.502252,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.502252,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Auronautic Enclave",
+            "latitude": 17.502252,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Alwal",
+            "latitude": 17.502252,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Dinakar Nagar",
+            "latitude": 17.502252,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bolarum",
+            "latitude": 17.502252,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Employees Colony",
+            "latitude": 17.502252,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Overseas Gardens",
+            "latitude": 17.502252,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Saket",
+            "latitude": 17.502252,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Dammaiguda",
+            "latitude": 17.502252,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Vandanapuri Colony",
+            "latitude": 17.52027,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ameenpur",
+            "latitude": 17.52027,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.52027,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Reddy Colony",
+            "latitude": 17.52027,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Krishnaja Hills",
+            "latitude": 17.52027,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "prashanti Hills",
+            "latitude": 17.52027,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Mahadevpur Colony",
+            "latitude": 17.52027,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.52027,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "IDA Jeedimetla",
+            "latitude": 17.52027,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "IDA Jeedimetla",
+            "latitude": 17.52027,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Caton Residential Township",
+            "latitude": 17.52027,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Shivanagar Colony",
+            "latitude": 17.52027,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bison Environmental Park",
+            "latitude": 17.52027,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kowkoor",
+            "latitude": 17.52027,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Chandrapuri Colony",
+            "latitude": 17.52027,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ambedkar Nagar",
+            "latitude": 17.52027,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Secunderabad",
+            "latitude": 17.52027,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Raghavendra Colony",
+            "latitude": 17.538288,
+            "longitude": 78.3,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "UNKNOWN",
+            "latitude": 17.538288,
+            "longitude": 78.31849,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Ameenpur",
+            "latitude": 17.538288,
+            "longitude": 78.336979,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bollaram Industrial Area",
+            "latitude": 17.538288,
+            "longitude": 78.355469,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bachupally",
+            "latitude": 17.538288,
+            "longitude": 78.373959,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Vasanth Nagar Colony",
+            "latitude": 17.538288,
+            "longitude": 78.392449,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Lalsahebpet",
+            "latitude": 17.538288,
+            "longitude": 78.410938,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Sivalaya Nagar Colony",
+            "latitude": 17.538288,
+            "longitude": 78.429428,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Suraram",
+            "latitude": 17.538288,
+            "longitude": 78.447918,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Jaibery Colony",
+            "latitude": 17.538288,
+            "longitude": 78.466408,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Kompally",
+            "latitude": 17.538288,
+            "longitude": 78.484897,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Secunderabad",
+            "latitude": 17.538288,
+            "longitude": 78.503387,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Rizala Bazar",
+            "latitude": 17.538288,
+            "longitude": 78.521877,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Bharat Nagar",
+            "latitude": 17.538288,
+            "longitude": 78.540367,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Hakimpet",
+            "latitude": 17.538288,
+            "longitude": 78.558856,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "CRPF",
+            "latitude": 17.538288,
+            "longitude": 78.577346,
+            "pincode": "NA"
+        },
+        {
+            "city": "Hyderabad",
+            "area": "Secunderabad",
+            "latitude": 17.538288,
+            "longitude": 78.595836,
+            "pincode": "NA"
+        }
+    ]
+}

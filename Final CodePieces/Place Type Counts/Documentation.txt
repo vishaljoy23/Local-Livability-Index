@@ -1,0 +1,11 @@
+Simplest code piece
+
+Given a location count the number of "X"'s located within some radius
+
+Eg: Count number of hospitals in 3km radius.
+
+Does this for several different place types.
+
+Uses google maps "Places Aggregate API"
+I will be disabling this soon.
+Please use a new API Key. 

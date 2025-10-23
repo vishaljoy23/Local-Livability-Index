@@ -1,0 +1,3 @@
+uses WAQI.com API to obtain aqi at lat long
+
+API_URL = "https://api.waqi.info/feed/geo:12.908135;77.560839/?token=0a702b09cfffc0e623d5dccf98d656b044b832d2" 

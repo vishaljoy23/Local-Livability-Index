@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Livability Index Selector</title>
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, sans-serif;
+        background: #f4f7f9;
+        padding: 40px;
+        color: #333;
+    }
+
+    h1 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    .category {
+        margin-bottom: 20px;
+    }
+
+    .category h3 {
+        color: #0078d4;
+        margin-bottom: 10px;
+    }
+
+    label {
+        display: block;
+        margin: 5px 0;
+    }
+
+    button {
+        display: block;
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+        border: none;
+        border-radius: 8px;
+        background-color: #0078d4;
+        color: white;
+        cursor: pointer;
+        transition: background 0.2s ease;
+        margin-top: 10px;
+    }
+
+    button:hover {
+        background-color: #005fa3;
+    }
+
+    #openMapBtn {
+        background-color: #28a745;
+    }
+
+    #openMapBtn:hover {
+        background-color: #1e7e34;
+    }
+
+    #result {
+        margin-top: 25px;
+        padding: 15px;
+        border-radius: 10px;
+        background: #e9f7ef;
+        border: 1px solid #a5d6a7;
+        display: none;
+    }
+</style>
+</head>
+<body>
+
+<h1>🏙️ Livability Index Parameter Selector</h1>
+
+<div class="container">
+
+    <div class="category">
+        <h3>🌿 Environment & Sustainability</h3>
+        <label><input type="checkbox" value="aqi" checked> Air Quality (AQI)</label>
+        <label><input type="checkbox" value="wqi" checked> Water Quality (WQI)</label>
+        <label><input type="checkbox" value="park" checked> Parks</label>
+        <label><input type="checkbox" value="playground" checked> Playgrounds</label>
+    </div>
+
+    <div class="category">
+        <h3>🏥 Infrastructure & Services</h3>
+        <label><input type="checkbox" value="hospital" checked> Hospitals</label>
+        <label><input type="checkbox" value="school" checked> Schools</label>
+        <label><input type="checkbox" value="supermarket" checked> Supermarkets</label>
+        <label><input type="checkbox" value="store" checked> Stores</label>
+        <label><input type="checkbox" value="library" checked> Libraries</label>
+    </div>
+
+    <div class="category">
+        <h3>🚗 Mobility & Accessibility</h3>
+        <label><input type="checkbox" value="congestion" checked> City Congestion</label>
+        <label><input type="checkbox" value="local_congestion" checked> Local Congestion</label>
+    </div>
+
+    <div class="category">
+        <h3>💰 Economy & Affordability</h3>
+        <label><input type="checkbox" value="sqft_price" checked> Property Prices</label>
+        <label><input type="checkbox" value="hdi_rank" checked> HDI Rank</label>
+    </div>
+
+    <div class="category">
+        <h3>🗳️ Civic Engagement</h3>
+        <label><input type="checkbox" value="voter_turnout" checked> Voter Turnout</label>
+    </div>
+
+    <button id="submitBtn">Compute Livability Score</button>
+    <button id="openMapBtn">Open Map</button>
+
+    <div id="result"></div>
+
+</div>
+
+<script>
+const button = document.getElementById("submitBtn");
+const openMapBtn = document.getElementById("openMapBtn");
+const resultDiv = document.getElementById("result");
+
+// Compute Livability Score
+button.addEventListener("click", () => {
+    const selected = Array.from(document.querySelectorAll('input[type="checkbox"]:checked'))
+        .map(cb => cb.value);
+
+    if (selected.length === 0) {
+        resultDiv.style.display = "block";
+        resultDiv.style.background = "#ffebee";
+        resultDiv.style.border = "1px solid #e57373";
+        resultDiv.innerHTML = "<strong>Please select at least one parameter.</strong>";
+        return;
+    }
+
+    resultDiv.style.display = "block";
+    resultDiv.style.background = "#e9f7ef";
+    resultDiv.style.border = "1px solid #a5d6a7";
+    resultDiv.innerHTML = `
+        <strong>Selected Parameters:</strong><br>
+        ${selected.join(", ")}<br><br>
+        <em>→ These parameters will be used to compute the livability score.</em>
+    `;
+
+    fetch("http://127.0.0.1:5000/compute", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ parameters: selected })
+    })
+    .then(res => res.json())
+    .then(data => {
+        if (data.error) {
+            resultDiv.innerHTML = `<strong>Error:</strong> ${data.error}`;
+            return;
+        }
+
+        let html = `<strong>Selected Parameters:</strong> ${data.selected_parameters.join(", ")}<br><br>`;
+        html += "<strong>🏆 Top 10 Areas by Livability Score:</strong><br><ol>";
+        data.top_areas.forEach(area => {
+            html += `<li>${area.city} - ${area.area}: <strong>${area.selectedParamsScore.toFixed(2)}</strong></li>`;
+        });
+        html += "</ol>";
+        resultDiv.innerHTML = html;
+    })
+    .catch(err => {
+        resultDiv.innerHTML = `<strong>Error:</strong> ${err.message}`;
+    });
+});
+
+// Open Map button
+openMapBtn.addEventListener("click", () => {
+    window.open("mapBLRHYD.html", "_blank");
+});
+</script>
+
+</body>
+</html>

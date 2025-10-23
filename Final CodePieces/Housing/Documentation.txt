@@ -1,0 +1,14 @@
+Code to get average housing cost in a neighbourhood by scraping housing.com
+
+PS: This keeps breaking because housing.com keeps changing small small things ughh
+
+Method: 
+Open url for the city specified.
+Enter the area name in the searchbox. Capture housing.com's autocorrect api and get the correct
+url for the prices of the area to be scraped.
+Now open the url for the area.
+Scrape 30 listings
+Average.
+Result is 1 single average value.
+
+Note: These are house prices by BHK not land prices.

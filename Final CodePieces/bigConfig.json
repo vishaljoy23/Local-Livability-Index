@@ -1,0 +1,54 @@
+{
+    "locations": [
+    {
+      "city": "Hyderabad",
+      "area": "Balapur",
+      "latitude": 17.309896, 
+      "longitude": 78.505912,
+      "pincode": "-"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Vattepally",
+      "latitude": 17.323246, 
+      "longitude": 78.457009,
+      "pincode": "-"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Sagbowli",
+      "latitude": 17.334142, 
+      "longitude": 78.433920,
+      "pincode": "-"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Malakpet",
+      "latitude": 17.372604, 
+      "longitude": 78.490970,
+      "pincode": "-"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Koti",
+      "latitude": 17.386587, 
+      "longitude": 78.479422,
+      "pincode": "-"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Ameerpet",
+      "latitude": 17.439347, 
+      "longitude": 78.445132,
+      "pincode": "-"
+    },
+    {
+      "city": "Hyderabad",
+      "area": "Begumpet",
+      "latitude": 17.444513, 
+      "longitude": 78.464715,
+      "pincode": "-"
+    }
+
+    ]
+}

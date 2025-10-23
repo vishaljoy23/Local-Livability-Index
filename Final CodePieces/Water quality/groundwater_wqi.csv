@@ -1,0 +1,169 @@
+State,District,Location,Latitude,Longitude,WQI,WQI_Category
+Karnataka,Bellary,Kakkuppi,14.866,76.447,293.4888889,Unsuitable
+Karnataka,Vijayanagara,Ramasagara,15.378,76.576,67.73240741,Poor
+Karnataka,Bellary,Tekkalakote A,15.513,76.875,133.5564815,Unsuitable
+Karnataka,Bellary,Thorangal,15.196,76.675,61.07685185,Poor
+Karnataka,Vijayanagara,Venkatapura,15.331,76.516,64.78888889,Poor
+Karnataka,Bengaluru Rural,Kodagurki,13.2999,77.7004,258.5611111,Unsuitable
+Karnataka,Bengaluru Rural,Avathi,13.2953,77.7246,288.6462963,Unsuitable
+Karnataka,Bengaluru Rural,Vishwanathpura,13.2714,77.6491,109.7925926,Unsuitable
+Karnataka,Bengaluru Rural,Bairasandra,13.2825,77.6046,104.4185185,Unsuitable
+Karnataka,Bengaluru Rural,Siddanaikanahalli,13.2983,77.5529,207.2398148,Unsuitable
+Karnataka,Bengaluru Rural,Doddaballpura,13.2871,77.5384,69.56481481,Poor
+Karnataka,Bengaluru Rural,Shivgange,13.1814,77.2236,22.75833333,Excellent
+Karnataka,Bengaluru Rural,Gangenpura,13.1759,77.2122,52.61388889,Poor
+Karnataka,Bengaluru Rural,Mahadevapura,13.066,77.3218,41.54537037,Good
+Karnataka,Bengaluru Urban,Beguru,12.883,77.617,89.37314815,Very Poor
+Karnataka,Bengaluru Urban,Kodigehalli,13.06,77.568,36.64166667,Good
+Karnataka,Bidar,Andur,17.9132,77.4116,21.55185185,Excellent
+Karnataka,Bidar,Danargoan,18.2882,77.3252,60.60555556,Poor
+Karnataka,Bidar,Ghatboral,17.9054,77.0791,48.7462963,Good
+Karnataka,Bidar,Islampur,17.7803,77.0213,43.42222222,Good
+Karnataka,Bidar,Rajola,17.8477,77.0566,46.31851852,Good
+Karnataka,Bidar,Yerandgi,17.7899,76.9312,79.16574074,Very Poor
+Karnataka,Bijapur,Ambalanur,16.6233,76.2553,73.29537037,Poor
+Karnataka,Bijapur,Ayeri,16.9769,76.3003,91.15277778,Very Poor
+Karnataka,Bijapur,Basavanabagewadi,16.565,75.9558,50.43796296,Poor
+Karnataka,Bijapur,Bavur,16.4439,76.2517,107.7944444,Unsuitable
+Karnataka,Bijapur,Bhudihala,17.2453,75.9003,51.89537037,Poor
+Karnataka,Bijapur,Bhudihaldon,16.7103,76.1456,211.2527778,Unsuitable
+Karnataka,Bijapur,Chadchan,17.3111,75.6511,236.0509259,Unsuitable
+Karnataka,Bijapur,Deur Tanda,16.7792,76.0958,55.16851852,Poor
+Karnataka,Bijapur,Devanagao,17.1333,76.3,122.2925926,Unsuitable
+Karnataka,Bijapur,Dindawar,16.6597,76.0486,77.61851852,Very Poor
+Karnataka,Bijapur,Halsangi,17.3208,75.8347,39.42962963,Good
+Karnataka,Bijapur,Honnutagi,16.8333,75.8333,40.68981481,Good
+Karnataka,Bijapur,Hullur,16.3537,75.9972,60.64351852,Poor
+Karnataka,Bijapur,Huvinahipparagi,16.5572,76.0772,152.3222222,Unsuitable
+Karnataka,Bijapur,Inchageri,17.1089,75.6839,40.14814815,Good
+Karnataka,Bijapur,Khatijapur,16.7651,75.6761,173.0666667,Unsuitable
+Karnataka,Bijapur,Kumatagi A,16.8181,75.8983,52.88981481,Poor
+Karnataka,Bijapur,Maileswar A,16.4667,76.3417,120.4574074,Unsuitable
+Karnataka,Bijapur,Muddebihal A,16.3333,76.1222,69.67962963,Poor
+Karnataka,Bijapur,Nagadhana,16.9308,75.8478,122.9490741,Unsuitable
+Karnataka,Bijapur,Nebageri,16.2833,76.1125,335.6861111,Unsuitable
+Karnataka,Bijapur,Newdhulikhed,17.3889,75.8444,71.1212963,Poor
+Karnataka,Bijapur,Nidagundi,16.375,75.9,34.3037037,Good
+Karnataka,Bijapur,Nimbal,17.1,75.9,312.9722222,Unsuitable
+Karnataka,Bijapur,Rampura,16.9698,76.2267,51.92222222,Poor
+Karnataka,Bijapur,Salotgi,17.1333,76.0333,76.01296296,Very Poor
+Karnataka,Bijapur,Sarawad,16.7161,75.6344,21.28148148,Excellent
+Karnataka,Bijapur,Satihal,16.7,76.0667,205.6777778,Unsuitable
+Karnataka,Bijapur,Sawalanga,17.1133,75.7431,25.67037037,Good
+Karnataka,Bijapur,Sindgi 1,16.9231,76.2336,30.94444444,Good
+Karnataka,Bijapur,Vibhutihalli,17.1,76.1833,82.29537037,Very Poor
+Karnataka,Bijapur,Yankanchi,16.8625,76.3347,140.9092593,Unsuitable
+Karnataka,Bijapur,Yelagi,17.3194,75.8347,47.22407407,Good
+Karnataka,Chamarajanagara,Maddur (Yelandur),12.0778,77.0667,220.0777778,Unsuitable
+Karnataka,Chamarajanagara,Honnegowdanahalli,11.76,76.6169,108.987037,Unsuitable
+Karnataka,Chamarajanagara,Hanur,12.0917,77.3006,49.61481481,Good
+Karnataka,Chamarajanagara,Palanimedu,12.02,77.41,78.98611111,Very Poor
+Karnataka,Chikballapur,Gajalahalli,13.3154,78.0666,127.6648148,Unsuitable
+Karnataka,Chikballapur,Murugmale,13.4413,78.1285,178.4555556,Unsuitable
+Karnataka,Chikballapur,Upparpet,13.4034,78.0031,97.16111111,Very Poor
+Karnataka,Chikballapur,Chintamani,13.4055,78.0554,135.087963,Unsuitable
+Karnataka,Chikballapur,Hampasandra,13.743,77.7514,70.13055556,Poor
+Karnataka,Chikballapur,Gudibonde-Ii,13.6744,77.6936,17.51018519,Excellent
+Karnataka,Chikballapur,Bevinahalli,13.4957,77.4834,97.48425926,Very Poor
+Karnataka,Chikballapur,Pura,13.5282,77.5757,66.25740741,Poor
+Karnataka,Chikkamagaluru,Karthikere,13.291,75.809,51.51018519,Poor
+Karnataka,Chikkamagaluru,Ajjampura,13.695,76.009,73.92592593,Poor
+Karnataka,Chitradurga,Arehalli,14.042,76.173,107.0425926,Unsuitable
+Karnataka,Chitradurga,Belagur,13.628,76.293,69.29722222,Poor
+Karnataka,Chitradurga,Biravara,14.293,76.3,111.387037,Unsuitable
+Karnataka,Chitradurga,Chitradurga,14.22,76.399,54.20833333,Poor
+Karnataka,Chitradurga,Doggenal,14.0203,76.072,78.0037037,Very Poor
+Karnataka,Chitradurga,Dummi,14.029,76.067,305.525,Unsuitable
+Karnataka,Chitradurga,Garaga,13.629,76.351,44.68796296,Good
+Karnataka,Chitradurga,Gutikatte,13.885,76.226,177.1157407,Unsuitable
+Karnataka,Chitradurga,Hanumali,13.999,76.084,240.75,Unsuitable
+Karnataka,Chitradurga,Hartikote,14.071,76.649,1447.89537,Unsuitable
+Karnataka,Chitradurga,Hosadurga,13.862,76.133,66.22962963,Poor
+Karnataka,Chitradurga,Hosadurga Rs Road,13.862,76.133,57.90092593,Poor
+Karnataka,Chitradurga,Kallavana Nagatihalli,14.177,76.152,94.72037037,Very Poor
+Karnataka,Chitradurga,Maskallu,13.988,76.69,140.0185185,Unsuitable
+Karnataka,Chitradurga,Molakalmuru,14.716,76.75,189.1675926,Unsuitable
+Telangana,B.Kothagudem,Seethaigudem2,17.4008,80.6765,15.17037037,Excellent
+Telangana,B.Kothagudem,Mandalapally1,17.2349,81.0012,39.77407407,Good
+Telangana,B.Kothagudem,Mandalapally2,17.2348,81.0011,31.58611111,Good
+Telangana,B.Kothagudem,Ankampalem1,17.3735,80.9655,21.60462963,Excellent
+Telangana,B.Kothagudem,Ankampalem2,17.3737,80.9654,20.63055556,Excellent
+Telangana,B.Kothagudem,Moddulagudem1,17.2552,80.949,15.74814815,Excellent
+Telangana,B.Kothagudem,Moddulagudem2,17.255,80.9494,16.04444444,Excellent
+Telangana,B.Kothagudem,Gundala1,17.9138,80.3164,36.85185185,Good
+Telangana,B.Kothagudem,Gundala2,17.9138,80.3162,9.881481481,Excellent
+Telangana,B.Kothagudem,Muthapuram1,17.8954,80.3791,18.53240741,Excellent
+Telangana,B.Kothagudem,Muthapuram 2,17.8954,80.379,25.15092593,Good
+Telangana,B.Kothagudem,Gangaram,17.2155,80.8957,36.22037037,Good
+Telangana,B.Kothagudem,Guttagudem1,17.4715,80.877,5.583333333,Excellent
+Telangana,B.Kothagudem,Guttagudem2,17.4715,80.8769,11.96296296,Excellent
+Telangana,B.Kothagudem,V K Ramavaram,17.5623,80.7786,25.07037037,Good
+Telangana,B.Kothagudem,E Bayyaram,18.0513,80.7391,26.27592593,Good
+Telangana,B.Kothagudem,Karakagudem,18.0403,80.5714,88.91666667,Very Poor
+Telangana,B.Kothagudem,Bittu Thanda1,17.4643,80.5063,33.67962963,Good
+Telangana,B.Kothagudem,Bittu Thanda2,17.4643,80.5063,31.9287037,Good
+Telangana,B.Kothagudem,Bodu1,17.6754,80.4429,18.5037037,Excellent
+Telangana,B.Kothagudem,Yellandu2,17.5813,80.3449,35.04259259,Good
+Telangana,B.Kothagudem,Yellandu3,17.5814,80.3449,29.63611111,Good
+Telangana,B.Kothagudem,Kommugudem1,17.5906,80.2668,31.73981481,Good
+Telangana,B.Kothagudem,Sudimalla1,17.5849,80.3532,34.52407407,Good
+Telangana,B.Kothagudem,Chintoni Chilka1,17.6352,80.56,23.07314815,Excellent
+Telangana,B.Kothagudem,Chintoni Chilka2,17.635,80.56,16.18425926,Excellent
+Telangana,B.Kothagudem,Chintoni Chilka3,17.6351,80.56,45.77222222,Good
+Telangana,B.Kothagudem,Chintoni Chilka4,17.6351,80.5601,26.51944444,Good
+Telangana,Hanamkonda,Yelakaturthy1,18.0996,79.4494,95.03796296,Very Poor
+Telangana,Hanamkonda,Kothakonda1,18.0428,79.3267,29.43240741,Good
+Telangana,Hanamkonda,Muluknur1,18.092,79.368,47.63981481,Good
+Telangana,Hanamkonda,Kannur,18.2033,79.5087,30.73981481,Good
+Telangana,Hanamkonda,Kazipet-Alt,17.9755,79.5082,20.86203704,Excellent
+Telangana,Hanamkonda,Warangal,17.9881,79.5905,48.13055556,Good
+Telangana,Hanamkonda,Chintagattu1,18.0469,79.5316,25.66666667,Good
+Telangana,Hanamkonda,Madikonda,17.9552,79.4791,31.31944444,Good
+Telangana,Hanamkonda,Panthini,17.8493,79.6074,144.3685185,Unsuitable
+Telangana,Hanamkonda,Inoli,17.8706,79.548,66.98425926,Poor
+Telangana,Hanamkonda,Kakirallapalli,17.8281,79.5614,24.9,Excellent
+Telangana,Hanamkonda,Ammavaripeta,17.9413,79.5569,30.82407407,Good
+Telangana,Hanamkonda,Dharmasagar,17.9908,79.4525,33.79814815,Good
+Telangana,Hanamkonda,Velair,18.0055,79.3322,53.95092593,Poor
+Telangana,Hanamkonda,Yellapur,18.0787,79.5012,95.18240741,Very Poor
+Telangana,Hanamkonda,Pembarthy,18.0839,79.5387,36.46759259,Good
+Telangana,Hanamkonda,Ayodyapuram,17.9607,79.498,38.37314815,Good
+Telangana,Hanamkonda,Peechara,17.9673,79.2937,55.51944444,Poor
+Telangana,Hyderabad,Kutubshah    Tumbs,17.395,78.3962,29.2212963,Good
+Telangana,Hyderabad,Langar   House- Pz,17.376,78.4239,48.60833333,Good
+Telangana,Hyderabad,Shanti Nagar-Pz,17.3981,78.4553,47.16851852,Good
+Telangana,Hyderabad,Falaknama2,17.3345,78.4682,49.59166667,Good
+Telangana,Hyderabad,Tirumalgiri-Pz,17.4753,78.511,35.83055556,Good
+Telangana,Hyderabad,Boinpally-Pz,17.4704,78.4761,24.20925926,Excellent
+Telangana,Hyderabad,Osmania University-Pz 1,17.4192,78.5297,30.49074074,Good
+Telangana,Hyderabad,Lingampally,17.4005,78.5001,26.425,Good
+Telangana,Hyderabad,Erragadda,17.4459,78.4361,30.91388889,Good
+Telangana,Hyderabad,Erramanzil,17.4168,78.4529,14.26481481,Excellent
+Telangana,Hyderabad,Begumpet,17.4454,78.4519,42.53055556,Good
+Telangana,Hyderabad,Koti-Pz,17.3843,78.4846,34.925,Good
+Telangana,Hyderabad,Gudimalkapur,17.3846,78.4332,13.95740741,Excellent
+Telangana,Hyderabad,West Maredpally-Pz,17.4452,78.5012,11.49907407,Excellent
+Telangana,Hyderabad,Amberpet,17.3888,78.5181,30.26944444,Good
+Telangana,Hyderabad,Picket-1-Pz,17.4519,78.4958,25.0537037,Good
+Telangana,Hyderabad,Picket-2-Pz,17.4519,78.4958,27.47222222,Good
+Telangana,Hyderabad,Nampally-Pz,17.3864,78.4705,44.34722222,Good
+Telangana,Hyderabad,Chandrayan Gutta,17.3248,78.4804,49.64907407,Good
+Telangana,Hyderabad,Tarnaka,17.4257,78.531,35.91203704,Good
+Telangana,Hyderabad,Dd Colony (Amberpet),17.4023,78.5199,22.63981481,Excellent
+Telangana,Hyderabad,Malakpet,17.3717,78.4947,48.48611111,Good
+Telangana,Hyderabad,Begumpet(Imd),17.4463,78.4742,29.46574074,Good
+Telangana,Hyderabad,Osmania University,17.4164,78.5307,47.65185185,Good
+Telangana,Hyderabad,Lalaguda-Pz,17.4406,78.5287,42.26944444,Good
+Telangana,J.Bhupalapally,Mahadevpur1,18.7298,79.9797,16.66203704,Excellent
+Telangana,J.Bhupalapally,Garepalli,18.6255,79.9448,84.11018519,Very Poor
+Telangana,J.Bhupalapally,Vallamkuntla1,18.6042,79.8271,20.17407407,Excellent
+Telangana,J.Bhupalapally,Vallamkuntla2,18.6042,79.8271,60.20277778,Poor
+Telangana,J.Bhupalapally,Vallamkuntla3,18.6042,79.827,17.79074074,Excellent
+Telangana,J.Bhupalapally,Kataram2,18.6393,79.9513,37.69814815,Good
+Telangana,J.Bhupalapally,Kataram3,18.6394,79.9513,72.6462963,Poor
+Telangana,J.Bhupalapally,Basawapur,18.5582,79.9244,53.05740741,Poor
+Telangana,J.Bhupalapally,Chityal2,18.3344,79.6797,27.70092593,Good
+Telangana,J.Bhupalapally,Ghanpur(Mulung),18.3119,79.8704,46.70925926,Good
+Telangana,J.Bhupalapally,Motlapalli1,18.295,79.5822,42.57685185,Good
+Telangana,J.Bhupalapally,Motlapalli2,18.2951,79.5821,43.92314815,Good
+Telangana,J.Bhupalapally,Motlapalli3,18.295,79.5822,43.03981481,Good

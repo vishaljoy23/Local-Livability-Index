@@ -1,0 +1,13 @@
+Each of these folders contain code to collect data for different aspects of the livability of an area.
+Each folder has it's own documentation.txt explaining briefly the code's working and purpose.
+
+Please note some code pieces require google cloud api specifically:
+
+"Directions API"
+"Places Aggregate API"
+
+from google cloud.
+
+For now I have left my api keys in the code but I will be disabling them soon.
+Please use new api keys which can be acquired here
+https://console.cloud.google.com

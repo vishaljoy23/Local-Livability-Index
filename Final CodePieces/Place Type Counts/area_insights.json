@@ -1,0 +1,14 @@
+{
+  "lat": 17.444513,
+  "lon": 78.464715,
+  "amenities": {
+    "supermarket": 4,
+    "store": 128,
+    "park": 19,
+    "playground": 6,
+    "hospital": 32,
+    "school": 45,
+    "library": 74,
+    "police": 35
+  }
+}

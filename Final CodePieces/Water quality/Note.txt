@@ -1,0 +1,1 @@
+Still have to convert the entire 200 page pdf to a csv but for now we can just use blr and hyd

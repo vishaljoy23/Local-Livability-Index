@@ -1,0 +1,23 @@
+{
+    "city": "Hyderabad",
+    "area": "Begumpet",
+    "latitude": 17.444513,
+    "longitude": 78.464715,
+    "pincode": "-",
+    "aqi": 67,
+    "wqi": 29.46574074,
+    "wqi_category": "Good",
+    "congestion": 1.228860426612993,
+    "local_congestion": 1.399208458156485,
+    "hdi_rank": 34,
+    "sqft_price": null,
+    "supermarket": 4,
+    "store": 128,
+    "park": 19,
+    "playground": 6,
+    "hospital": 32,
+    "school": 45,
+    "library": 74,
+    "police": 35,
+    "voter_turnout": 49.45
+}

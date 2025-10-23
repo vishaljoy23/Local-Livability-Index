@@ -1,0 +1,30 @@
+{
+  "query": "\n  query($searchQuery: SearchQueryInput!, $variant: String) {\n    typeAhead(searchQuery: $searchQuery, variant: $variant) {\n      results {\n        id\n        name\n        displayType\n        type\n        subType\n        url\n        canonical\n        mobileUrl\n        center\n        uniqueId\n        crossCityUuid\n        displaySubType\n      }\n      defaultUrl\n      isCrossCitySearch\n    }\n  }\n",
+  "variables": {
+    "searchQuery": {
+      "name": "Madhapur",
+      "service": "buy",
+      "category": "residential",
+      "city": {
+        "name": "Hyderabad",
+        "id": "1cdd81323d5286e9fa47",
+        "cityId": "df50812912a40e78be9a",
+        "url": "hyderabad",
+        "isTierTwo": false,
+        "products": [
+          "flatmate",
+          "paying_guest",
+          "buy",
+          "plots",
+          "commercial",
+          "rent"
+        ]
+      },
+      "excludeEntities": [],
+      "rows": 10,
+      "allowedCrossCity": true,
+      "crossCityExperimentFlag": true
+    },
+    "variant": "moondragonV2"
+  }
+}

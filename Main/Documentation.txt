@@ -1,0 +1,30 @@
+This folder contains driver code to make the whole project work
+
+outermain.py
+This is used mainly when you want to run the program on a large number of locations.
+Eg: 200 neighbourhoods in bangalore.
+
+main.py
+This is the main driver code.
+It executes each code piece stored in "Final CodePieces" folder one by one.
+It executes for one location at a time.
+
+jsoncollect.py
+Each code piece stored in "Final CodePieces" stores its output in an output json file in it's own folder.
+I didn't really know how to connect multiple code pieces together so this is what I did :)
+jsoncollect.py goes to each of these subfolders and reads from the json outputs. It then stores all this data in a list or feature vector and stores that in features.csv inside final codepieces.
+
+
+
+
+Data is read from 
+bigConfig.json //stores info about 200 locations here. just city, area, and lat long
+config.json //stores info about the current area for which data is being collected
+
+Data is written to 
+features.csv
+
+
+
+bigConfig.json, config.json and features.csv are all stored in "Final CodePieces" folder.
+

@@ -1,0 +1,4 @@
+A research paper had ranked Indian Cities according to HDI.
+This code piece uses that ranking.
+
+The source is available in "Livability Datasets" Folder

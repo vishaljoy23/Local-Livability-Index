@@ -1,0 +1,12 @@
+"Final CodePieces" folder contains code to collect data for each aspect of livability of an area.
+Contains many subfolders to do the same.
+
+
+In "Main" folder:
+Contains driver codes to run the entire project.
+
+
+Please note: Currently all the paths to files are hardcoded as paths on my computer:
+
+Eg: C/Users/Vishal/Desktop/Livability…
+These paths will have to be changed in order to run the code properly.

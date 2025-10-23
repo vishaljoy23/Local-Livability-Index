@@ -1,0 +1,10 @@
+app.py is the backend using flask api.
+app.py must be running for the webpage to work.
+
+livability_selector.html is the page to select desired params.
+After selecting, click compute livability score and open map to view values on map.
+
+Right now it only works on data stored in livability_data.csv file.
+Have not built the gui to enter a latitude and longitude and return the livability score.
+
+That will require modifying "config.json" in the "Final CodePieces" folder.
